@@ -1,4 +1,4 @@
-//use two_sum;
+mod two_sum;
 
 fn main() {
   println!("Rust playgraund.");
